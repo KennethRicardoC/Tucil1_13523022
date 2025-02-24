@@ -35,7 +35,6 @@ Jika anda ingin menjalankan program ini, anda harus mempersiapkan:
    cd Tucil1_13523022
    ```
    atau buka folder menggunakan IDE seperti Visual Studio Code.
-   
 3. Compile seluruh program di terminal:
    ```shell
    ./build.sh
@@ -44,5 +43,9 @@ Jika anda ingin menjalankan program ini, anda harus mempersiapkan:
    ```shell
    java -cp bin program.Main
    ```
-   
+5. Masukkan file test case yang diinginkan:
+   ````shell
+   Masukkan nama file test case (.txt): contoh.txt
+   ````  
+6. Solusi (jika ada) akan ditampilkan di Terminal
    
