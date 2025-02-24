@@ -1,7 +1,7 @@
 <h1 align="center">Tugas Kecil 1 IF2211 Strategi Algoritma</h1>
 <h3 align="center">Autosolver IQ Puzzler Pro dengan Algoritma Brute Force</p>
 
-## Table of Contents
+## Daftar Isi
 
 - [Overview](#overview)
     - [Built With](#built-with)
