@@ -5,8 +5,8 @@
 
 - [Overview](#overview)
     - [Built With](#built-with)
+    - [Dibuat Oleh](#dibuat-oleh)
 - [Instalasi](#installation)
-
 ## Overview
 IQ Puzzler Pro adalah permainan papan yang diproduksi oleh perusahaan Smart Games. 
 Tujuan dari permainan ini adalah pemain harus dapat mengisi seluruh papan dengan 
@@ -23,6 +23,9 @@ terisi penuh dan seluruh blok puzzle berhasil diletakkan.
 
 ### Build With
 [Java]()
+
+### Dibuat Oleh
+Program ini dibuat oleh Kenneth Ricardo Chandra 13523022 sebagai bentuk penyelesaian Tugas Kecil 1 Strategi Algoritma 2024/2025
 
 ## Installation
 Jika anda ingin menjalankan program ini, anda harus mempersiapkan:
