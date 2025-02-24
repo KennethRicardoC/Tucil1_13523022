@@ -36,7 +36,7 @@ Jika anda ingin menjalankan program ini, anda harus mempersiapkan:
    ```
    atau buka folder menggunakan IDE seperti Visual Studio Code.
    
-3. Compile seluruh program:
+3. Compile seluruh program di terminal:
    ```shell
    ./build.sh
    ```
