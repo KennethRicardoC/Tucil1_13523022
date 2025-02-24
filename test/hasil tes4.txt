@@ -1,0 +1,8 @@
+Bentuk Akhir Papan:
+ABC
+DEF
+GHI
+
+
+Waktu Pencarian: 7,587 ms
+Jumlah Iterasi: 9

@@ -1,0 +1,7 @@
+Bentuk Akhir Papan:
+AC
+BB
+
+
+Waktu Pencarian: 10,486 ms
+Jumlah Iterasi: 3

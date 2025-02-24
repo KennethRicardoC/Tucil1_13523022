@@ -1,0 +1,15 @@
+6 4 6  
+DEFAULT  
+X  
+XX  
+Y  
+YY  
+Z  
+ZZZ  
+W  
+WW  
+V  
+VVV  
+U  
+UU  
+

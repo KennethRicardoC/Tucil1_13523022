@@ -1,0 +1,10 @@
+Bentuk Akhir Papan:
+AGGGC
+AABCC
+EEBBF
+EEDFF
+EDDFF
+
+
+Waktu Pencarian: 92,514 ms
+Jumlah Iterasi: 7166

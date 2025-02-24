@@ -1,0 +1,7 @@
+Bentuk Akhir Papan:
+AABDD
+CCBDD
+
+
+Waktu Pencarian: 10,555 ms
+Jumlah Iterasi: 7

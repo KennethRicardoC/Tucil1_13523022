@@ -1,0 +1,10 @@
+Bentuk Akhir Papan:
+AAAE
+BAEE
+BBDE
+BCDE
+CCDD
+
+
+Waktu Pencarian: 15,990 ms
+Jumlah Iterasi: 33
