@@ -8,7 +8,7 @@
 - [Instalasi](#installation)
 
 ## Overview
-IQ Puzzler Pro adalahpermainan papan yang diproduksi oleh perusahaan Smart Games. 
+IQ Puzzler Pro adalah permainan papan yang diproduksi oleh perusahaan Smart Games. 
 Tujuan dari permainan ini adalah pemain harus dapat mengisi seluruh papan dengan 
 piece (blok puzzle) yang telah tersedia. Komponen penting dari permainan ini terdiri dari:
 1. Board (Papan) – Board merupakan komponen utama yang menjadi tujuan permainan dimana pemain
